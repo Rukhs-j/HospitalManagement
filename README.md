@@ -1,5 +1,5 @@
 Hii,
-Hospital management system is GUI+database project 
+Hospital management system is GUI+database project ...
 Requirements:
 Backend =mysql 
 Frontend = java
